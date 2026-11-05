@@ -30,6 +30,7 @@ console.log("Arv 0 Heksadesüsteemis: " + result5); // väljasta tulemus
 const number1 = 110;
 const result = number1.toString(2); // Konverteerime arvu 110 binaarsüsteemi
 console.log("Arv 110 Binaarsüsteemis: " + result); // väljasta tulemus
+
 const number4 = 6871;
 const result7 = number4.toString(16); // Konverteerime arvu 6871 heksadesüsteemi
 console.log("Arv 6871 Heksadesüsteemis: " + result7); // väljasta tulemus    
